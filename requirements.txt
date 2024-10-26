@@ -5,4 +5,4 @@ numpy==1.26.0
 requests==2.31.0
 beautifulsoup4==4.12.2
 fuzzywuzzy==0.18.0
-python-Levenshtein==0.20.0 
+python-Levenshtein
