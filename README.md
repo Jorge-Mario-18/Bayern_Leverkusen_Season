@@ -14,3 +14,11 @@ This dashboard is designed to showcase player passes and their connections.
 All coordinate data was provided by Hudl StatsBomb through access to their free API.  
 The images and GIFs are hosted on Cloudinary.  
 Special acknowledgment to OpenAI's ChatGPT.
+
+### Contact
+Email: [coachjorgemario@gmail.com](mailto:coachjorgemario@gmail.com)
+
+### External Links
+- [Cloudinary](https://cloudinary.com)
+- [Hudl StatsBomb](https://statsbomb.com/)
+- [ChatGPT](https://openai.com/chatgpt)
